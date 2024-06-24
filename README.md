@@ -70,6 +70,6 @@
 
 <br clear="both">
 
-![snake gif](https://raw.githubusercontent.com/LeooRodriguez/LeooRodriguez/output/snake.svg)
+<img src="https://raw.githubusercontent.com/LeooRodriguez/LeooRodriguez/output/snake.svg" alt="Snake animation" />
 
 ###
