@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -54,22 +50,26 @@
 
 ###
 
+<p align="center">LEARNING</p>
+
+###
+
+<img align="right" height="150" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+</div>
+
+###
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LeooRodriguez/LeooRodriguez/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/11151221345">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=11151221345&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/LeooRodriguez/count.svg?"  />
-</div>
+![snake gif](https://raw.githubusercontent.com/LeooRodriguez/LeooRodriguez/output/snake.svg)
 
 ###
